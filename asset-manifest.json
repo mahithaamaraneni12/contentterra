@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contentterra/static/css/main.722eafe8.css",
+    "main.js": "/contentterra/static/js/main.c40fc9e9.js",
+    "static/js/453.91213c11.chunk.js": "/contentterra/static/js/453.91213c11.chunk.js",
+    "index.html": "/contentterra/index.html",
+    "main.722eafe8.css.map": "/contentterra/static/css/main.722eafe8.css.map",
+    "main.c40fc9e9.js.map": "/contentterra/static/js/main.c40fc9e9.js.map",
+    "453.91213c11.chunk.js.map": "/contentterra/static/js/453.91213c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.c40fc9e9.js"
+  ]
+}

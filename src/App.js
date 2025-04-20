@@ -15,8 +15,7 @@ function App() {
 
   return (
     <div className="container" style={{ maxWidth: '1280px', minHeight: '720px' }}>
-      {/* 👇 Customize or remove this header if needed */}
-      <h1 className="text-center my-4">Reddit reactjs Feed</h1>
+      <h1 className="text-center my-4">Reddit Reactjs Feed</h1>
 
       <div className="row">
         {posts.map((post, index) => (

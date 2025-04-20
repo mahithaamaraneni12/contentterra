@@ -20,7 +20,7 @@ body {
 .card-title {
   font-weight: 600;
 }
-/* Optional: Smooth scroll styling */
+
 .card-text::-webkit-scrollbar {
   width: 6px;
 }
@@ -30,6 +30,9 @@ body {
 }
 .card-text::-webkit-scrollbar-track {
   background-color: #f1f1f1;
+}
+.container {
+  padding: 1rem;
 }
 
 .App-header {

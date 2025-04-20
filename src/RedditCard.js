@@ -4,7 +4,9 @@ function RedditCard({ data }) {
   const { title, selftext_html, url_overridden_by_dest, score } = data;
 
   return (
-    <div className="card h-100 d-flex flex-column shadow-sm" style={{ height: '400px' }}>
+    // <div className="card h-100 d-flex flex-column shadow-sm" style={{ height: '400px' }}>
+    <div className="card h-100 d-flex flex-column shadow-sm">
+
       <div
         className="card-body overflow-auto"
         style={{ flex: 1, minHeight: 0 }}

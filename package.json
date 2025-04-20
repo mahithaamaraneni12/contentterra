@@ -2,7 +2,7 @@
   "name": "reddit-reactjs-viewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mahithaamaraneni12.github.io/reddit-reactjs-viewer",
+  "homepage": "https://mahithaamaraneni12.github.io/contentterra",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

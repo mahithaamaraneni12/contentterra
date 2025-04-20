@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+body {
+  background-color: #f7f7f7;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card-title {
+  font-weight: 600;
+}
+/* Optional: Smooth scroll styling */
+.card-text::-webkit-scrollbar {
+  width: 6px;
+}
+.card-text::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
+.card-text::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
 
 .App-header {
   background-color: #282c34;
